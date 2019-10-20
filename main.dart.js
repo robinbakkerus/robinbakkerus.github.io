@@ -37454,7 +37454,7 @@ return Math.sqrt(t*t+s*s+r*r+u*u)}}
 F.zK.prototype={
 I:function(a){return new S.oD(new F.BQ(null),"9 november Silent disco feest",X.S8(null,C.pn),!1,null)}}
 F.BQ.prototype={
-I:function(a){var u=null,t=L.bi("9 november RGB feest",u)
+I:function(a){var u=null,t=L.bi("9 november Silent disco feest",u)
 return new M.pQ(new E.mQ(t,!0,new P.M(1/0,56),u),M.aq(u,new R.pi(u),u,u,u,u,u,u,u),!1,u)}};(function aliases(){var u=H.nO.prototype
 u.A1=u.p
 u=H.pP.prototype
@@ -40272,7 +40272,7 @@ u($,"a0t","Qn",function(){var t=null,s=L.bi("Adres: Stratumseind 36",t),r=L.bi("
 return H.b([s,r,q,p,M.aq(t,t,t,t,S.cK(t,t,t,t,t,X.nt(C.bR,L.vu("web/assets/rgb-cafe.jpg",t,t)),C.C),o-100,t,t,o)],[N.at])})
 u($,"a0u","Qm",function(){var t=null,s=L.bi("1. Dicht bij in het centrum onder de Heuvelgalerie",t),r=L.bi("2. Naast het PSV stadion",t),q=L.bi("3. Bij de TU",t),p=M.aq(t,t,t,t,t,10,t,t,t),o=0.7*$.ep
 return H.b([s,r,q,p,M.aq(t,t,t,t,S.cK(t,t,t,t,t,X.nt(C.bR,L.vu("web/assets/parkeerplaatsen.jpg",t,t)),C.C),o-100,t,t,o)],[N.at])})
-u($,"a0v","Ql",function(){var t=null,s=L.bi("Sinds september de meest populaire uitgaansgelegenheid in het R(ood) G(roen) B(lauw) caf\xe9 op het Stratumseind",t),r=M.aq(t,t,t,t,t,10,t,t,t),q=0.9*$.ep
+u($,"a0v","Ql",function(){var t=null,s=L.bi("Sinds september de meest populaire uitgaansgelegenheid in het RGB caf\xe9 op het Stratumseind. De naam RGB komt van de drie kanalen Rood Groen of Blauw die op koptelefoon gekozen kan worden. ",t),r=M.aq(t,t,t,t,t,10,t,t,t),q=0.9*$.ep
 return H.b([s,r,M.aq(t,t,t,t,S.cK(t,t,t,t,t,X.nt(C.bR,L.vu("web/assets/silentdisco.jpg",t,t)),C.C),q-100,t,t,q)],[N.at])})})();(function nativeSupport(){!function(){var u=function(a){var o={}
 o[a]=1
 return Object.keys(hunkHelpers.convertToFastObject(o))[0]}
