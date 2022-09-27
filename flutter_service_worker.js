@@ -3,8 +3,9 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "23d359c49f7fc78d0decb9a91f9407b3",
+  "assets/AssetManifest.json": "d9b203e050fefe2d7fef6b8c6a1e4544",
 "assets/bier.jpg": "f4bd1981215ef2d2babad0dd5753ed54",
+"assets/champagne.jpg": "70e324652b4c35ed6262ba048ab40cae",
 "assets/donald.gif": "160726b6b6830011afcb24de0a30c4fd",
 "assets/envelop.jpg": "f47a976a167493363112303c6b92aef9",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
@@ -16,15 +17,17 @@ const RESOURCES = {
 "assets/kraslot1.jpg": "c06046e37e4dab610ea33490ec3d84c6",
 "assets/kraslot2.jpg": "7795c87a46a2c90d76f21907503f6e78",
 "assets/kraslot3.jpg": "6c2fed2f961f38bfa4f62cc5d5592370",
-"assets/NOTICES": "e9842beb9b216604191ec1aeff77f987",
+"assets/NOTICES": "20b83862ef881b3e444e7534a35f6b57",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "115e937bb829a890521f72d2e664b632",
 "assets/parkeerplaatsen.jpg": "56035f88a81231576ddcd2d6d2c12cb1",
 "assets/prijs.gif": "458c5768ba259450df7dea9e6717583e",
+"assets/prijs.jpg": "6fb22d90255d2352be68884e657aabbf",
 "assets/rgb-cafe.jpg": "f7d71408401b9c174e1ca5b92134ae42",
 "assets/rgb-feest.jpg": "ce295788967f4547345c68de42e3b244",
 "assets/shaders/ink_sparkle.frag": "b80c1a87a5b19f482a776d94c7c2bbd1",
 "assets/silentdisco.jpg": "d5af984227162bbbb1f19ac1735a94b7",
 "assets/web/assets/bier.jpg": "f4bd1981215ef2d2babad0dd5753ed54",
+"assets/web/assets/champagne.jpg": "70e324652b4c35ed6262ba048ab40cae",
 "assets/web/assets/donald.gif": "160726b6b6830011afcb24de0a30c4fd",
 "assets/web/assets/envelop.jpg": "f47a976a167493363112303c6b92aef9",
 "assets/web/assets/gewonnen.gif": "57d7bf7de8e14574e4d21387b595bcdd",
@@ -36,6 +39,7 @@ const RESOURCES = {
 "assets/web/assets/kraslot3.jpg": "6c2fed2f961f38bfa4f62cc5d5592370",
 "assets/web/assets/parkeerplaatsen.jpg": "56035f88a81231576ddcd2d6d2c12cb1",
 "assets/web/assets/prijs.gif": "458c5768ba259450df7dea9e6717583e",
+"assets/web/assets/prijs.jpg": "6fb22d90255d2352be68884e657aabbf",
 "assets/web/assets/rgb-cafe.jpg": "f7d71408401b9c174e1ca5b92134ae42",
 "assets/web/assets/rgb-feest.jpg": "ce295788967f4547345c68de42e3b244",
 "assets/web/assets/silentdisco.jpg": "d5af984227162bbbb1f19ac1735a94b7",
@@ -50,7 +54,7 @@ const RESOURCES = {
 "flutter.js": "f85e6fb278b0fd20c349186fb46ae36d",
 "index.html": "f65af8cd451db4481c634bc5ac05d491",
 "/": "f65af8cd451db4481c634bc5ac05d491",
-"main.dart.js": "0bf99f17495df9d5b5898a2e1e0d3b73",
+"main.dart.js": "2be60bc95c44b61be21aedc9eeeaffed",
 "version.json": "d5b7947ffd103ca2cc5fb8df3bd0d622"
 };
 
