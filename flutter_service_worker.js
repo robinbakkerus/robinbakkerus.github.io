@@ -3,8 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "d9b203e050fefe2d7fef6b8c6a1e4544",
-"assets/bier.jpg": "f4bd1981215ef2d2babad0dd5753ed54",
+  "assets/AssetManifest.json": "380d572c3cbdc1454d8caebdcf6a72ea",
 "assets/champagne.jpg": "70e324652b4c35ed6262ba048ab40cae",
 "assets/donald.gif": "160726b6b6830011afcb24de0a30c4fd",
 "assets/envelop.jpg": "f47a976a167493363112303c6b92aef9",
@@ -26,7 +25,6 @@ const RESOURCES = {
 "assets/rgb-feest.jpg": "ce295788967f4547345c68de42e3b244",
 "assets/shaders/ink_sparkle.frag": "b80c1a87a5b19f482a776d94c7c2bbd1",
 "assets/silentdisco.jpg": "d5af984227162bbbb1f19ac1735a94b7",
-"assets/web/assets/bier.jpg": "f4bd1981215ef2d2babad0dd5753ed54",
 "assets/web/assets/champagne.jpg": "70e324652b4c35ed6262ba048ab40cae",
 "assets/web/assets/donald.gif": "160726b6b6830011afcb24de0a30c4fd",
 "assets/web/assets/envelop.jpg": "f47a976a167493363112303c6b92aef9",
@@ -51,16 +49,10 @@ const RESOURCES = {
 "canvaskit/canvaskit.wasm": "bf50631470eb967688cca13ee181af62",
 "canvaskit/profiling/canvaskit.js": "38164e5a72bdad0faa4ce740c9b8e564",
 "canvaskit/profiling/canvaskit.wasm": "95a45378b69e77af5ed2bc72b2209b94",
-"favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "flutter.js": "f85e6fb278b0fd20c349186fb46ae36d",
-"icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
-"icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
-"icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "eb83ccf65e6ec7cf53ffeff64f56bd11",
-"/": "eb83ccf65e6ec7cf53ffeff64f56bd11",
-"main.dart.js": "78f7c02da93ce3d499b3e6da6929675b",
-"manifest.json": "d9d6162c42a779d6bd91dd4f52d779ae",
+"index.html": "f65af8cd451db4481c634bc5ac05d491",
+"/": "f65af8cd451db4481c634bc5ac05d491",
+"main.dart.js": "52a7a289a7f4f56de7f73fbf33139e3a",
 "version.json": "d5b7947ffd103ca2cc5fb8df3bd0d622"
 };
 
