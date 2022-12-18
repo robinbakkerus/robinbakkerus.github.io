@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "54370d3a1b07557e7bce30c6cbc1e43d",
+  "assets/AssetManifest.json": "8c99980ebc94a92a7069bae09bdf000e",
 "assets/bier.jpg": "f4bd1981215ef2d2babad0dd5753ed54",
 "assets/bruiloft1.jpg": "d6896d28eaa539e742ee3e359fc6a15d",
 "assets/bruiloft2.jpg": "b7ac2cf320eb0ccf20e71cfb919e4b7b",
@@ -16,6 +16,7 @@ const RESOURCES = {
 "assets/fonts/MaterialIcons-Regular.otf": "95db9098c58fd6db106f1116bae85a0b",
 "assets/gewonnen.gif": "57d7bf7de8e14574e4d21387b595bcdd",
 "assets/glow.jpg": "6c9ea9b1e218f5933f9d1c6babcd8630",
+"assets/happy-2023.jpg": "b7d2d23ce204c5d1b7eb24abedef91a2",
 "assets/haviklaan-woonkamer.jpg": "ff78b4af010b250728f191a3eab528cf",
 "assets/haviklaan.jpg": "010c46b6056f0332a2216d83206a2511",
 "assets/kado-tip.jpg": "71a9565dd2eac360ef409294be3efc13",
@@ -50,6 +51,7 @@ const RESOURCES = {
 "assets/web/assets/fietshelm.jpg": "c95538889cf89836786b949bea866c1c",
 "assets/web/assets/gewonnen.gif": "57d7bf7de8e14574e4d21387b595bcdd",
 "assets/web/assets/glow.jpg": "6c9ea9b1e218f5933f9d1c6babcd8630",
+"assets/web/assets/happy-2023.jpg": "b7d2d23ce204c5d1b7eb24abedef91a2",
 "assets/web/assets/haviklaan-woonkamer.jpg": "ff78b4af010b250728f191a3eab528cf",
 "assets/web/assets/haviklaan.jpg": "010c46b6056f0332a2216d83206a2511",
 "assets/web/assets/kado-tip.jpg": "71a9565dd2eac360ef409294be3efc13",
@@ -82,7 +84,7 @@ const RESOURCES = {
 "flutter.js": "f85e6fb278b0fd20c349186fb46ae36d",
 "index.html": "ce5ddb99c3071110db6f5b36a2bcb38f",
 "/": "ce5ddb99c3071110db6f5b36a2bcb38f",
-"main.dart.js": "ee5296baf1fb12bad2a5de3ae37e75c8",
+"main.dart.js": "5e9dd70baa44352419583705cce98e02",
 "version.json": "d5b7947ffd103ca2cc5fb8df3bd0d622"
 };
 
