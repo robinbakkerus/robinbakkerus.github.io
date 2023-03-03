@@ -1,6 +1,6 @@
 {
-    "name": "bridge_app",
-    "short_name": "bridge_app",
+    "name": "seeyou_bridge_dummy",
+    "short_name": "seeyou_bridge_dummy",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
